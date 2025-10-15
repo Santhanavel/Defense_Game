@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80555cb9a4fbf346a14da9c1d78e5ca, type: 3}
+  m_Name: Wepons
+  m_EditorClassIdentifier: 
+  objectData:
+  - <Name>k__BackingField: Tire 01 Cannon
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <prefab>k__BackingField: {fileID: 7968987310410610969, guid: 0fcd3bb2ca33d9a4b8514663854a4269, type: 3}
+  - <Name>k__BackingField: Tire 02 Cannon
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 1}
+    <prefab>k__BackingField: {fileID: 7609073295397369389, guid: af997234eabcc9141b41a643ed66a9b8, type: 3}
+  - <Name>k__BackingField: Tire 03 Cannon
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <prefab>k__BackingField: {fileID: 2306139942572273846, guid: 1adfddb3800473f41b8e8b53aa7538d1, type: 3}
